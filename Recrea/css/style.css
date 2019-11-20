@@ -1,0 +1,25 @@
+.dato{
+	width: 400px;
+	display: inline;
+}
+
+#formCertificado{
+	margin-top: 20px;
+}
+
+#titulo, #parrafo{
+	color:#ffffff;
+	text-align: center;
+}
+
+html{
+	height: 100%;
+}
+
+body {
+	background-image: url("../img/back.jpg"); /* The image used */
+	background-color: #cccccc; /* Used if the image is unavailable */
+	background-repeat: no-repeat; /* Do not repeat the image */
+	background-size: cover; /* Resize the background image to cover the entire container */
+	height: 100%;
+  }
